@@ -1,0 +1,13 @@
+{
+  "version": "0.0.1",
+  "giphy": {
+    "apiKey": "<replace_with_giphy_api_key>",
+    "apiUrl": "api.giphy.com"
+  },
+  "meme": {
+    "apiUrl": "api.memegen.link"
+  },
+  "joke": {
+    "apiUrl": "v2.jokeapi.dev"
+  }
+}

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 64 64" xml:space="preserve" width="100%" height="100%"><g xmlns="http://www.w3.org/2000/svg">
+	<defs>
+		<path id="574090562_SVGID_1__grid" d="M59,51c-8.535-0.356-11-2.734-11-13.477C48,28.95,41.05,22,32.476,22c-1.079,0-7.392,0-11.033,0    c0,0-3.971-6.842-4.471-7.708c-1.615-2.797-2.718-3.936-5.589-3.936c-2.522,1.456-9.824,5.672-10.133,5.851    C0.502,16.639,0,17.447,0,18.373C0,19.753,0.551,20.501,1.417,22H10c0,1.342,0,2.671,0,3.907c0,3.444,1.319,6.526,4.41,8.316    c0.339,0.196,0.903,0.522,1.59,0.92c0,2.678,0,6.024,0,7.272c0,2.209,1.792,4,4,4v-8.96c1.169,0.676,2.252,1.302,2.999,1.733    c0,0.001,0,0.001,0,0.001c0.813,1.405,4,6.924,6.245,10.811c-2.775,0-6.838,0-8.244,0c-2.209,0-4,1.791-4,4h14.521H34h4.475    l-5.773-10h7.736C43.75,53.333,47.826,54,57,54c3.131,0,7,0,7,0S63.996,51.209,59,51z"></path>
+	</defs>
+	<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#574090562_SVGID_1__grid" class="stshockcolor" style="fill:#D99A57;;overflow:visible;" fill="rgb(217, 154, 87)"></use>
+	<clipPath id="574090562_SVGID_2__grid">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#574090562_SVGID_1__grid" style="overflow:visible;"></use>
+	</clipPath>
+	<g class="st1" style="clip-path:url(#574090562_SVGID_2__grid);;">
+		<path class="st0" d="M29.458,28C25.339,28,22,31.339,22,35.458c0,1.359,0.364,2.634,0.999,3.731C23.747,40.481,23.375,50,17,50v4    h47V28C64,28,33.577,28,29.458,28z" style="opacity:0.3;fill:#FFFFFF;;" fill="rgb(255, 255, 255)"></path>
+		<polygon class="st0" points="64,54 64,44 23,44 20,37.455 16,35.143 16,54   " style="opacity:0.3;fill:#FFFFFF;;" fill="rgb(255, 255, 255)"></polygon>
+		<path class="st0" d="M14,25.583c0-3.25,0-8.021,0-8.021C14,20.938,12,22,10,22v24.415h10V32.746c0,0-0.417-0.24-2.583-1.491    C15.25,30.004,14,28.833,14,25.583z" style="opacity:0.3;fill:#FFFFFF;;" fill="rgb(255, 255, 255)"></path>
+		<path class="st3" d="M6.583,22c0,0-0.914-1.584-1.751-3.034s-1.059-4.216,1.751-5.839L0,14v8H6.583z" style="opacity:0.3;fill:#231F20;;" fill="rgb(35, 31, 32)"></path>
+	</g>
+</g><path xmlns="http://www.w3.org/2000/svg" class="stshockcolor" d="M14,15c0,0-3.098-5.378-3.448-5.973C10.201,8.433,10,7.74,10,7c0-2.209,1.791-4,4-4V15z" style="fill:#D99A57;;" fill="rgb(217, 154, 87)"></path></svg>
