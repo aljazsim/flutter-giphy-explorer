@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 64 64" xml:space="preserve" width="100%" height="100%"><g xmlns="http://www.w3.org/2000/svg">
+	<path class="stshockcolor" d="M34,33.481c-3.562,2.056-6,5.659-6,10.464S28,51,28,51h-8V28.762L34,33.481z" style="fill:#A6A69F;;" fill="rgb(166, 166, 159)"></path>
+	<path class="st3" d="M34,33.481c-3.562,2.056-6,5.659-6,10.464S28,51,28,51h-8V28.762L34,33.481z" style="opacity:0.3;;"></path>
+</g><g xmlns="http://www.w3.org/2000/svg">
+	<defs>
+		<path id="574090519_SVGID_1__grid" d="M44.747,13C44.238,13,20,13,20,13l4,20.481c3.562,2.056,6,5.659,6,10.464S30,51,30,51h8V37l8,4.619V51h14    c0,0,0-9.353,0-22.747C60,19.283,53.115,13.01,44.747,13z"></path>
+	</defs>
+	<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#574090519_SVGID_1__grid" class="stshockcolor" style="fill:#A6A69F;;overflow:visible;" fill="rgb(166, 166, 159)"></use>
+	<clipPath id="574090519_SVGID_2__grid">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#574090519_SVGID_1__grid" style="overflow:visible;"></use>
+	</clipPath>
+	<g class="st1" style="clip-path:url(#574090519_SVGID_2__grid);;">
+		<g>
+			<path class="st3" d="M60,51V33.481c-3.562,2.056-6,5.659-6,10.464S54,51,54,51H60z" style="opacity:0.3;;"></path>
+		</g>
+	</g>
+</g><g xmlns="http://www.w3.org/2000/svg">
+	<defs>
+		<path id="574090519_SVGID_3__grid" d="M28,11c-2.704,0-10.528,0-12.296,0c-3.133,0-5.944,2.043-7.55,4.833c-1.67,2.902-1.77,3.066-3.565,6.175    C3.034,24.702,2,27.113,2,30.938c0,2.384,0,6.439,0,8C2,45.75,5.389,51,10.175,51C13.252,51,16,48.25,16,45h-3    c0,0.757-0.912,2-2.029,2C9.555,47,8,45.875,8,40.625C8,39.686,8,31,8,31s12-0.048,12,0c0,1.86,1.433,4,4.291,4    c2.817,0,4.018-1.211,5.547-3.863C30.977,29.163,38,17,38,17C35.912,13.384,32.333,11,28,11z"></path>
+	</defs>
+	<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#574090519_SVGID_3__grid" class="stshockcolor" style="fill:#A6A69F;;overflow:visible;" fill="rgb(166, 166, 159)"></use>
+	<clipPath id="574090519_SVGID_4__grid">
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#574090519_SVGID_3__grid" style="overflow:visible;"></use>
+	</clipPath>
+	<g class="st2" style="clip-path:url(#574090519_SVGID_4__grid);;">
+		<path class="st4" d="M12,31c0,0,4.167-7.218,4.499-7.793C17.813,20.931,18.836,20,20,20v11H12z" style="fill-opacity:0.15;;" opacity="0.15"></path>
+		<rect x="20" y="11" class="st0" width="20" height="24" style="fill:#FFFFFF;fill-opacity:0.3;;" fill="rgb(255, 255, 255)" opacity="0.3"></rect>
+		<ellipse class="st5" cx="14.542" cy="22.059" rx="1.542" ry="1.725" style="opacity:0.6;fill:#231F20;;" fill="rgb(35, 31, 32)"></ellipse>
+	</g>
+</g><path xmlns="http://www.w3.org/2000/svg" class="st7" d="M8,37.928c-1.125,1.949-4.467,4.563-6.634,4.563L8,31h4C12,31,9.125,35.979,8,37.928z" style="fill:#DEDCD9;;" fill="rgb(222, 220, 217)"></path></svg>
